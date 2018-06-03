@@ -4,6 +4,9 @@
 ## 一，浏览器
 ### html
 ### css
+##### 需求
+1. [遮罩层镂空](./browser/css/demand/1806/01.md)
+
 ### javaScript
 ------
 
@@ -12,6 +15,12 @@
 
 ## 三，微信
 ------
+### 微信小程序
+##### 基础
+##### 需求
+1. [小程序原声组件z-index](./weixin/miniprogram/demand/1806/01.md)
+2. [实现遮罩层下底层不滚动](./weixin/miniprogram/demand/1806/02.md)
+
 
 ## 四，辅助开发
 > 插件，类库，框架
