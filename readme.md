@@ -20,6 +20,7 @@
 ##### 需求
 1. [小程序原声组件z-index](./weixin/miniprogram/demand/1806/01.md)
 2. [实现遮罩层下底层不滚动](./weixin/miniprogram/demand/1806/02.md)
+3. [小程序实现网页端cookie会话功能](./weixin/miniprogram/demand/1806/03.md)
 
 
 ## 四，辅助开发
@@ -32,6 +33,15 @@
 ### wepy
 ##### 需求
 1. [wepy之子组件向父组件的传值](./assist/wepy/demand/1806/01.md)
+
+### express
+##### 基本
+1. [express前言](./assist/express/basse/1806/01.md)
+
+##### 需求
+1. [express快速构建项目](./assist/express/demand/1806/01.md)
+2. [rom工具Sequelize之一连接mysql数据库](./assist/express/demand/1806/02.md)
+3. [Sequelize之二定义数据表模型](./assist/express/demand/1806/03.md)
 ------
 
 ## 五，网络安全
