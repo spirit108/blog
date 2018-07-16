@@ -12,15 +12,25 @@
 
 ## 二，后台
 ------
+### nginx
+##### 基础
+1. [nginx开启关闭以及重启](./server/nginx/base/1806/01.md)
+2. [nginx.conf详解](./server/nginx/base/1806/02.md)
+
+### linux
+##### 基础
+1. [linux 服务管理](./server/linux/base/1807/01.md)
+1. [linux 进程管理管理](./server/linux/base/1807/02.md)
 
 ## 三，微信
 ------
 ### 微信小程序
 ##### 基础
-##### 需求
 1. [小程序原声组件z-index](./weixin/miniprogram/demand/1806/01.md)
-2. [实现遮罩层下底层不滚动](./weixin/miniprogram/demand/1806/02.md)
-3. [小程序实现网页端cookie会话功能](./weixin/miniprogram/demand/1806/03.md)
+
+##### 需求
+1. [实现遮罩层下底层不滚动](./weixin/miniprogram/demand/1806/02.md)
+2. [小程序实现网页端cookie会话功能](./weixin/miniprogram/demand/1806/03.md)
 
 
 ## 四，辅助开发
