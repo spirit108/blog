@@ -60,7 +60,8 @@
 ## 六，编程知识
 ### 测试
 ##### 基本知识
-1. [测试]](./program/test/1807/01.md)
+1. [node测试](./program/test/base/1807/01.md)
+1. [vue测试](./program/test/base/1807/02.md)
 ------
 
 ## 七，其他
