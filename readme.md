@@ -17,10 +17,22 @@
 1. [nginx开启关闭以及重启](./server/nginx/base/1806/01.md)
 2. [nginx.conf详解](./server/nginx/base/1806/02.md)
 
+### node
+##### 基础
+1. [node-常用模块](./server/node/base/1807/00.md);
+2. [node-http](./server/node/base/1807/01.md);
+3. [node-fs](./server/node/base/1807/02.md);
+
+
 ### linux
 ##### 基础
 1. [linux 服务管理](./server/linux/base/1807/01.md)
-1. [linux 进程管理管理](./server/linux/base/1807/02.md)
+2. [linux 进程管理管理](./server/linux/base/1807/02.md)
+3. [跟着Windows学Linux进本操作](./server/linux/base/1807/03.md)
+
+##### 需求
+1. [vm虚拟机安装Linux-centOS7无法上网](./server/linux/demand/1807/01.md)
+2. [Linux-centOS7安装ifconfig](./server/linux/demand/1807/02.md)
 
 ## 三，微信
 ------
@@ -52,9 +64,12 @@
 1. [express快速构建项目](./assist/express/demand/1806/01.md)
 2. [rom工具Sequelize之一连接mysql数据库](./assist/express/demand/1806/02.md)
 3. [Sequelize之二定义数据表模型](./assist/express/demand/1806/03.md)
+4. [express: cookie和session](./assist/express/demand/1807/01.md)
+
 ------
 
 ## 五，网络安全
+1. [服务器常用网络端口](./http/base/1807/01.md)
 ------
 
 ## 六，编程知识
