@@ -16,6 +16,7 @@
 ##### 基础
 1. [nginx开启关闭以及重启](./server/nginx/base/1806/01.md)
 2. [nginx.conf详解](./server/nginx/base/1806/02.md)
+4. [nginx开启关闭以及重启2](./server/nginx/base/1811/01.md)
 
 ### node
 ##### 基础
