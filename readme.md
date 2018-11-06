@@ -8,6 +8,7 @@
 
 ### javaScript
 1. [freecodecamp算法题-个人向（1）](./browser/javaScript/1811/01.md)
+2. [freecodecamp算法题-个人向（2）](./browser/javaScript/1811/02.md)
 ------
 
 ## 二，后台
