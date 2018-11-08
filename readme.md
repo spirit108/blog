@@ -7,9 +7,10 @@
 1. [遮罩层镂空](./browser/css/1806/01.md)
 
 ### javaScript
-1. [freecodecamp算法题-个人向（1）](./browser/javaScript/1811/01.md)
-2. [freecodecamp算法题-个人向（2）](./browser/javaScript/1811/02.md)
-2. [freecodecamp算法题-个人向（3）](./browser/javaScript/1811/03.md)
+1. [freecodecamp基础算法题-个人向（1）](./browser/javaScript/1811/01.md)
+2. [freecodecamp基础算法题-个人向（2）](./browser/javaScript/1811/02.md)
+3. [freecodecamp基础算法题-个人向（3）](./browser/javaScript/1811/03.md)
+4. [freecodecamp中级算法题-个人向（1）](./browser/javaScript/1811/04.md)
 
 ### vue
 1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/01.md)
