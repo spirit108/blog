@@ -12,6 +12,8 @@
 3. [freecodecamp基础算法题-个人向（3）](./browser/javaScript/1811/03.md)
 4. [freecodecamp中级算法题-个人向（1）](./browser/javaScript/1811/04.md)
 5. [freecodecamp中级算法题-个人向（2）](./browser/javaScript/1811/05.md)
+6. [freecodecamp中级算法题-个人向（3）](./browser/javaScript/1811/06.md)
+7. [freecodecamp中级算法题-个人向（4）](./browser/javaScript/1811/07.md)
 
 ### vue
 1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/01.md)
