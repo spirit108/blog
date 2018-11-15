@@ -20,6 +20,7 @@
 
 ### jQuery
 1. [jQuery源码分析（1）](./browser/jQuery/1811/01.md)
+1. [jQuery源码分析（2）](./browser/jQuery/1811/02.md)
 ------
 
 ## 二，后端
