@@ -19,6 +19,7 @@
 10. [js面向对象初接触（1）](./browser/javaScript/1812/01.md)
 11. [js面向对象初接触（2）](./browser/javaScript/1812/02.md)
 12. [js面向对象初接触（3）](./browser/javaScript/1812/03.md)
+13. [js面向对象初接触（4）](./browser/javaScript/1812/04.md)
 
 ### vue
 1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/01.md)
