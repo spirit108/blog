@@ -20,8 +20,10 @@
 11. [js面向对象初接触（2）](./browser/javaScript/1812/02.md)
 12. [js面向对象初接触（3）](./browser/javaScript/1812/03.md)
 13. [js面向对象初接触（4）](./browser/javaScript/1812/04.md)
-13. [js面向对象初接触（5）](./browser/javaScript/1812/05.md)
-13. [js面向对象初接触（6）](./browser/javaScript/1812/06.md)
+14. [js面向对象初接触（5）](./browser/javaScript/1812/05.md)
+15. [js面向对象初接触（6）](./browser/javaScript/1812/06.md)
+16. [js面向对象初接触（7）](./browser/javaScript/1812/07.md)
+16. [js面向对象初接触（8）](./browser/javaScript/1812/08.md)
 
 ### vue
 1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/01.md)
