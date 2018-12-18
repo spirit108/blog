@@ -88,6 +88,7 @@
 7. [js面向对象初接触（7）](./program/js_oop/1812/07.md)
 8. [js面向对象初接触（8）](./program/js_oop/1812/08.md)
 9. [js面向对象初接触（9）](./program/js_oop/1812/09.md)
+10. [js面向对象初接触（10）](./program/js_oop/1812/10.md)
 ------
 
 ## 六，其他
