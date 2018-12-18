@@ -16,14 +16,7 @@
 7. [freecodecamp中级算法题-个人向（4）](./browser/javaScript/1811/07.md)
 8. [js对象浅拷贝和深拷贝](./browser/javaScript/1811/08.md)
 9. [cookie](./browser/javaScript/1811/09.md)
-10. [js面向对象初接触（1）](./browser/javaScript/1812/01.md)
-11. [js面向对象初接触（2）](./browser/javaScript/1812/02.md)
-12. [js面向对象初接触（3）](./browser/javaScript/1812/03.md)
-13. [js面向对象初接触（4）](./browser/javaScript/1812/04.md)
-14. [js面向对象初接触（5）](./browser/javaScript/1812/05.md)
-15. [js面向对象初接触（6）](./browser/javaScript/1812/06.md)
-16. [js面向对象初接触（7）](./browser/javaScript/1812/07.md)
-16. [js面向对象初接触（8）](./browser/javaScript/1812/08.md)
+
 
 ### vue
 1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/01.md)
@@ -36,7 +29,6 @@
 ------
 
 ## 二，后端
-
 ### nginx
 1. [nginx开启关闭以及重启](./server/nginx/1806/01.md)
 2. [nginx.conf详解](./server/nginx/1806/02.md)
@@ -85,6 +77,17 @@
 ### 算法
 ##### 递归
 1. [递归1](./program/algorithm/递归/1807/01.md)
+
+## 面向对象
+1. [js面向对象初接触（1）](./program/js_oop/1812/01.md)
+2. [js面向对象初接触（2）](./program/js_oop/1812/02.md)
+3. [js面向对象初接触（3）](./program/js_oop/1812/03.md)
+4. [js面向对象初接触（4）](./program/js_oop/1812/04.md)
+5. [js面向对象初接触（5）](./program/js_oop/1812/05.md)
+6. [js面向对象初接触（6）](./program/js_oop/1812/06.md)
+7. [js面向对象初接触（7）](./program/js_oop/1812/07.md)
+8. [js面向对象初接触（8）](./program/js_oop/1812/08.md)
+9. [js面向对象初接触（9）](./program/js_oop/1812/09.md)
 ------
 
 ## 六，其他
