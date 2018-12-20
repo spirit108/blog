@@ -79,6 +79,7 @@
 1. [数据结构与算法 - 基础](./program/algorithm/1812/01.md)
 2. [数据结构与算法 - 计算时间复杂度](./program/algorithm/1812/02.md)
 3. [数据结构与算法 - 栈](./program/algorithm/1812/03.md)
+4. [数据结构与算法 - 队列](./program/algorithm/1812/04.md)
 
 #### 递归
 1. [递归1](./program/algorithm/1807/01.md)
