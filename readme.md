@@ -16,6 +16,7 @@
 7. [freecodecamp中级算法题-个人向（4）](./browser/javaScript/1811/07.md)
 8. [js对象浅拷贝和深拷贝](./browser/javaScript/1811/08.md)
 9. [cookie](./browser/javaScript/1811/09.md)
+10. [面试题 - 事件队列](./browser/javaScript/1811/09.md)
 
 
 ### vue
