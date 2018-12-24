@@ -100,7 +100,7 @@
 ------
 
 ## 六，其他
-### 1，git
+### git
 ##### 基础
 1. [常用操作命令](./other/git/base/1806/01.md)
 
@@ -122,3 +122,6 @@
 3. [webpack4（3）](./other/webpack/1812/03.md)
 4. [webpack4（4）](./other/webpack/1812/04.md)
 5. [eslint 配置](./other/webpack/1812/05.md)
+
+### 3. 思维
+1. [webpack4（1）](./other/thinking/1812/01.md)
