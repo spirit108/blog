@@ -16,7 +16,7 @@
 7. [freecodecamp中级算法题-个人向（4）](./browser/javaScript/1811/07.md)
 8. [js对象浅拷贝和深拷贝](./browser/javaScript/1811/08.md)
 9. [cookie](./browser/javaScript/1811/09.md)
-10. [面试题 - 事件队列](./browser/javaScript/1812/01.md)
+10. [面试题 - 事件队列](./browser/javaScript/1812/00.md)
 11. [减少 if..else 和 switch](./browser/javaScript/1901/01.md)
 
 
