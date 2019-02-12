@@ -18,6 +18,7 @@
 9. [cookie](./browser/javaScript/1811/09.md)
 10. [面试题 - 事件队列](./browser/javaScript/1812/00.md)
 11. [减少 if..else 和 switch](./browser/javaScript/1901/01.md)
+12. [自我总结的良好编码风格](./browser/javaScript/1901/02.md)
 
 
 ### vue
