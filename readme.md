@@ -20,6 +20,7 @@
 11. [减少 if..else 和 switch](./browser/javaScript/1901/01.md)
 12. [自我总结的良好编码风格](./browser/javaScript/1901/02.md)
 13. [浅谈函数防抖与节流](./browser/javaScript/1902/01.md)
+14. [js动画基础](./browser/javaScript/1902/02.md)
 
 
 ### vue
