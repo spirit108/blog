@@ -22,6 +22,7 @@
 13. [浅谈函数防抖与节流](./browser/javaScript/1902/01.md)
 14. [js canvas 动画基础-01](./browser/javaScript/1902/02_1.md)
 15. [js canvas 动画基础-02](./browser/javaScript/1902/03.md)
+15. [js canvas 动画基础-03](./browser/javaScript/1902/04.md)
 
 
 ### vue
