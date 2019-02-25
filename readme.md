@@ -5,6 +5,7 @@
 ### 1,html
 ### 2,css
 1. [遮罩层镂空](./browser/css/1806/01.md)
+2. [文字过长截断并且用省略号代替](./browser/css/1902/01.md)
 
 ### 3,[javaScript 详细](./browser/javaScript/js_readme.md)
 
