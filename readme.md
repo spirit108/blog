@@ -118,7 +118,7 @@
 5. [eslint 配置](./other/webpack/1812/05.md)
 
 ### 3. 思维
-1. [webpack4（1）](./other/thinking/1812/01.md)
+1. [前端一点小想法](./other/thinking/1812/01.md)
 
 ### 4. 读书笔记
 1. [javaScript高级程序设计（第三版）笔记 - 01](./other/notes/javaScriptGJCXSJ/01.md)
