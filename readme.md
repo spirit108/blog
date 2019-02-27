@@ -121,4 +121,5 @@
 1. [前端一点小想法](./other/thinking/1812/01.md)
 
 ### 4. 读书笔记
-1. [javaScript高级程序设计（第三版）笔记 - 01](./other/notes/javaScriptGJCXSJ/01.md)
+1. [javaScript高级程序设计（第三版）笔记 - 01](./other/notes/javaScriptGJCXSJ/190201.md)
+2. [javaScript高级程序设计（第三版）笔记 - 02](./other/notes/javaScriptGJCXSJ/190202.md)
