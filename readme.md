@@ -123,3 +123,5 @@
 ### 4. 读书笔记
 1. [javaScript高级程序设计（第三版）笔记 - 01](./other/notes/javaScriptGJCXSJ/190201.md)
 2. [javaScript高级程序设计（第三版）笔记 - 02](./other/notes/javaScriptGJCXSJ/190202.md)
+3. [javaScript高级程序设计（第三版）笔记 - 03](./other/notes/javaScriptGJCXSJ/190203.md)
+4. [javaScript高级程序设计（第三版）笔记 - 04](./other/notes/javaScriptGJCXSJ/190301.md)
