@@ -90,6 +90,7 @@
 8. [js面向对象初接触（8）](./program/js_oop/1812/08.md)
 9. [js面向对象初接触（9）](./program/js_oop/1812/09.md)
 10. [js面向对象初接触（10）](./program/js_oop/1812/10.md)
+11. [ES5之前的继承](./program/js_oop/1903/01.md)
 ------
 
 ## 六，其他
