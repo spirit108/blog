@@ -79,7 +79,7 @@
 #### 递归
 1. [递归1](./program/algorithm/1807/01.md)
 
-## 面向对象
+### 面向对象
 1. [js面向对象初接触（1）](./program/js_oop/1812/01.md)
 2. [js面向对象初接触（2）](./program/js_oop/1812/02.md)
 3. [js面向对象初接触（3）](./program/js_oop/1812/03.md)
@@ -92,8 +92,11 @@
 10. [继承](./program/js_oop/1812/10.md)
 11. [ES5之前的继承](./program/js_oop/1903/190301.md)
 12. [封装](./program/js_oop/1903/190302.md)
-------
 
+### typeScript
+1. [typeScript使用CommonJS](./program/typeScript/1903/190301.md)
+
+------
 ## 六，其他
 ### git
 ##### 基础
