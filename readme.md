@@ -95,6 +95,7 @@
 10. [继承](./program/js_oop/1812/10.md)
 11. [ES5之前的继承](./program/js_oop/1903/190301.md)
 12. [封装](./program/js_oop/1903/190302.md)
+13. [面向对象- new 的作用及其简单模拟](./program/js_oop/1903/190303.md)
 
 ### typeScript
 1. [typeScript使用CommonJS](./program/typeScript/1903/190301.md)
