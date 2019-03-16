@@ -3,15 +3,18 @@
 
 ## 一，浏览器
 ### 1,html
+1. [HTML5 上传图片并且本地预览](./browser/html/1903/190301.md)
+2. [浏览器兼容设定](./browser/html/1903/190302.md)
+
 ### 2,css
 1. [遮罩层镂空](./browser/css/1806/01.md)
 2. [文字过长截断并且用省略号代替](./browser/css/1902/01.md)
 
 ### 3,[javaScript 详细](./browser/javaScript/js_readme.md)
 
-
 ### 4,vue
-1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/01.md)
+1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/180601.md)
+1. [vue-cli3实现分环境运行和打包](./browser/vue/1903/190301.md)
 
 ### 5,jQuery
 1. [jQuery源码分析（1）](./browser/jQuery/1811/01.md)
@@ -79,7 +82,7 @@
 #### 递归
 1. [递归1](./program/algorithm/1807/01.md)
 
-## 面向对象
+### 面向对象
 1. [js面向对象初接触（1）](./program/js_oop/1812/01.md)
 2. [js面向对象初接触（2）](./program/js_oop/1812/02.md)
 3. [js面向对象初接触（3）](./program/js_oop/1812/03.md)
@@ -92,8 +95,11 @@
 10. [继承](./program/js_oop/1812/10.md)
 11. [ES5之前的继承](./program/js_oop/1903/190301.md)
 12. [封装](./program/js_oop/1903/190302.md)
-------
 
+### typeScript
+1. [typeScript使用CommonJS](./program/typeScript/1903/190301.md)
+
+------
 ## 六，其他
 ### git
 ##### 基础
