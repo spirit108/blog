@@ -16,6 +16,7 @@
 1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/180601.md)
 2. [vue-cli3实现分环境运行和打包](./browser/vue/1903/190301.md)
 3. [vuex使用-获取数据](./browser/vue/1903/190302.md)
+4. [vuex使用-更新数据](./browser/vue/1903/190303.md)
 
 ### 5,jQuery
 1. [jQuery源码分析（1）](./browser/jQuery/1811/01.md)
