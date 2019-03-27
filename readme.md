@@ -18,7 +18,9 @@
 2. [vue-cli3实现分环境运行和打包](./browser/vue/1903/190301.md)
 3. [vuex使用-获取数据](./browser/vue/1903/190302.md)
 4. [vuex使用-更新数据](./browser/vue/1903/190303.md)
-4. [vue 限定数字输入](./browser/vue/1903/190304.md)
+5. [vue 限定数字输入](./browser/vue/1903/190304.md)
+6. [vue 实例的常用属性和方法](./browser/vue/1903/190305.md)
+7. [vue-axios二次封装](./browser/vue/1903/190306.md)
 
 ### 5,jQuery
 1. [jQuery源码分析（1）](./browser/jQuery/1811/01.md)
