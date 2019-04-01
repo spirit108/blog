@@ -23,6 +23,8 @@
 7. [vue-axios二次封装](./browser/vue/1903/190306.md)
 8. [vue：v-model](./browser/vue/1903/190307.md)
 9. [vue 各个组件及页面传值总结](./browser/vue/1903/190308.md)
+10. [vue：组件继承](./browser/vue/1903/190309.md)
+
 
 ### 5,jQuery
 1. [jQuery源码分析（1）](./browser/jQuery/1811/01.md)
