@@ -11,21 +11,11 @@
 1. [遮罩层镂空](./browser/css/1806/01.md)
 2. [文字过长截断并且用省略号代替](./browser/css/1902/01.md)
 
-### 3,[javaScript 详细](./browser/javaScript/js_readme.md)
+### 3,javaScript
+[点击查看详情](./browser/javaScript/js_readme.md)
 
 ### 4,vue
-1. [vue之子组件向父组件传递事件和值](./browser/vue/1806/180601.md)
-2. [vue-cli3实现分环境运行和打包](./browser/vue/1903/190301.md)
-3. [vuex使用-获取数据](./browser/vue/1903/190302.md)
-4. [vuex使用-更新数据](./browser/vue/1903/190303.md)
-5. [vue 限定数字输入](./browser/vue/1903/190304.md)
-6. [vue 实例的常用属性和方法](./browser/vue/1903/190305.md)
-7. [vue-axios二次封装](./browser/vue/1903/190306.md)
-8. [vue：v-model](./browser/vue/1903/190307.md)
-9. [vue 各个组件及页面传值总结](./browser/vue/1903/190308.md)
-10. [vue：组件继承](./browser/vue/1903/190309.md)
-11. [vue-2.6版本插槽](./browser/vue/1903/190310.md)
-
+[点击查看详情](./browser/vue/vue_readme.md)
 
 ### 5,jQuery
 1. [jQuery源码分析（1）](./browser/jQuery/1811/01.md)
@@ -88,7 +78,7 @@
 2. [数据结构与算法 - 计算时间复杂度](./program/algorithm/1812/02.md)
 3. [数据结构与算法 - 栈](./program/algorithm/1812/03.md)
 4. [数据结构与算法 - 队列](./program/algorithm/1812/04.md)
-4. [数据结构与算法 - 排序二叉树](./program/algorithm/1901/01.md)
+5. [数据结构与算法 - 排序二叉树](./program/algorithm/1901/01.md)
 
 #### 递归
 1. [递归1](./program/algorithm/1807/01.md)
