@@ -24,6 +24,7 @@
 8. [vue：v-model](./browser/vue/1903/190307.md)
 9. [vue 各个组件及页面传值总结](./browser/vue/1903/190308.md)
 10. [vue：组件继承](./browser/vue/1903/190309.md)
+11. [vue-2.6版本插槽](./browser/vue/1903/190310.md)
 
 
 ### 5,jQuery
