@@ -24,3 +24,4 @@
 23. [闭包](./1903/01.md)
 24. [javascript-ES3常用数组api](./1904/190401.md)
 25. [javascript-ES5常用数组api](./1904/190402.md)
+26. [javascript-ES6常用数组api](./1904/190403.md)
