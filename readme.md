@@ -78,7 +78,8 @@
 2. [数据结构与算法 - 计算时间复杂度](./program/algorithm/1812/02.md)
 3. [数据结构与算法 - 栈](./program/algorithm/1812/03.md)
 4. [数据结构与算法 - 队列](./program/algorithm/1812/04.md)
-4. [leetcode-01: 两数之和，哈希表（对象）](./program/algorithm/1904/190401.md)
+5. [leetcode-01: 两数之和，哈希表（对象）](./program/algorithm/1904/190401.md)
+6. [leetcode-02: 整数反转](./program/algorithm/1904/190402.md)
 
 #### 递归
 1. [递归1](./program/algorithm/1807/01.md)
