@@ -80,6 +80,7 @@
 5. [leetcode-01: 两数之和，哈希表（对象）](./program/algorithm/1904/190401.md)
 6. [leetcode-02: 整数反转](./program/algorithm/1904/190402.md)
 7. [递归](./program/algorithm/1807/180701.md)
+8. [leetcode-03: 回文数](./program/algorithm/1904/190403.md)
 
 ### 面向对象
 1. [js面向对象初接触（1）](./program/js_oop/1812/01.md)
