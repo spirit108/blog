@@ -29,6 +29,7 @@
 1. [nginx开启关闭以及重启](./server/nginx/1806/01.md)
 2. [nginx.conf详解](./server/nginx/1806/02.md)
 4. [nginx开启关闭以及重启2](./server/nginx/1811/01.md)
+5. [nginx 开启 GZIP](./server/nginx/1904/190401.md)
 
 ### node
 1. [node-常用模块](./server/node/1807/00.md)
@@ -112,6 +113,7 @@
 5. [博客版本v0.0.5](./other/blog_record/1811/181107.md)
 6. [博客版本v0.0.6](./other/blog_record/1902/01.md)
 7. [博客版本v0.0.7](./other/blog_record/1904/190401.md)
+7. [博客版本v0.0.8](./other/blog_record/1904/190402.md)
 
 ### webpack
 1. [webpack4（1）](./other/webpack/1812/01.md)
