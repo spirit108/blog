@@ -2,28 +2,33 @@
 > 主体是以运行环境来分类
 
 ## 一，浏览器
-### 1,html
+#### 1,html
 1. [HTML5 上传图片并且本地预览](./browser/html/1903/190301.md)
 2. [浏览器兼容设定](./browser/html/1903/190302.md)
 3. [前端，后端，前台，后台](./browser/html/1903/190303.md)
 
-### 2,css
+#### 2,css
 1. [遮罩层镂空](./browser/css/1806/01.md)
 2. [文字过长截断并且用省略号代替](./browser/css/1902/01.md)
 
-### 3,javaScript
-[点击查看详情](./browser/javaScript/js_readme.md)
+#### 3,javaScript
+1. [点击查看详情](./browser/javaScript/js_readme.md)
 
 ### 4,vue
-[点击查看详情](./browser/vue/vue_readme.md)
+1. [点击查看详情](./browser/vue/vue_readme.md)
 
-### 5,jQuery
+#### 5,jQuery
 1. [jQuery源码分析（1）](./browser/jQuery/1811/01.md)
 2. [jQuery源码分析（2）](./browser/jQuery/1811/02.md)
 3. [jQuery源码分析（3）](./browser/jQuery/1811/03.md)
 4. [jQuery源码分析（4）](./browser/jQuery/1811/04.md)
-------
 
+#### 6,浏览器游湖
+1. [前端性能优化](./browser/optimization/1904/190401.md)
+2. [提高首屏加载速度-基础](./browser/optimization/1904/190402.md)
+3. [减少服务器的压力](./browser/optimization/1904/190403.md)
+
+------
 ## 二，后端
 ### nginx
 1. [nginx开启关闭以及重启](./server/nginx/1806/01.md)
@@ -32,10 +37,16 @@
 5. [nginx 开启 GZIP](./server/nginx/1904/190401.md)
 
 ### node
-1. [node-常用模块](./server/node/1807/00.md)
-2. [node-http](./server/node/1807/01.md)
-3. [node-fs](./server/node/1807/02.md)
-4. [koa2 开发开源博客（1）](./server/node/1812/01.md)
+1. [express前言](./server/node/1806/00.md)
+2. [express快速构建项目](./server/node/1806/01.md)
+3. [rom工具Sequelize之一连接mysql数据库](./server/node/1806/02.md)
+4. [Sequelize之二定义数据表模型](./server/node/1806/03.md)
+5. [node-常用模块](./server/node/1807/00.md)
+6. [node-http](./server/node/1807/01.md)
+7. [node-fs](./server/node/1807/02.md)
+8. [express: cookie和session](./server/node/1807/180701.md)
+9. [koa2 开发开源博客（1）](./server/node/1812/01.md)
+10. [express 设置缓存](./server/node/1904/190401.md)
 
 ### linux
 1. [linux 服务管理](./server/linux/1807/01.md)
@@ -43,13 +54,6 @@
 3. [跟着Windows学Linux进本操作](./server/linux/1807/03.md)
 4. [vm虚拟机安装Linux-centOS7无法上网](./server/linux/1807/04.md)
 5. [Linux-centOS7安装ifconfig](./server/linux/1807/05.md)
-
-### express
-1. [express前言](./server/express/1806/00.md)
-1. [express快速构建项目](./server/express/1806/01.md)
-2. [rom工具Sequelize之一连接mysql数据库](./server/express/1806/02.md)
-3. [Sequelize之二定义数据表模型](./server/express/1806/03.md)
-4. [express: cookie和session](./server/express/1807/01.md)
 
 ### http
 1. [服务器常用网络端口](./server/http/1807/180701.md)
@@ -113,7 +117,8 @@
 5. [博客版本v0.0.5](./other/blog_record/1811/181107.md)
 6. [博客版本v0.0.6](./other/blog_record/1902/01.md)
 7. [博客版本v0.0.7](./other/blog_record/1904/190401.md)
-7. [博客版本v0.0.8](./other/blog_record/1904/190402.md)
+8. [博客版本v0.0.8](./other/blog_record/1904/190402.md)
+9. [博客版本v0.0.9](./other/blog_record/1904/190403.md)
 
 ### webpack
 1. [webpack4（1）](./other/webpack/1812/01.md)
