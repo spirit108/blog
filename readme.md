@@ -78,7 +78,7 @@
 2. [vue测试](./program/test/1807/02.md)
 
 ### 数据结构与算法
-[点击查看详情](./program/algorithm/algorithm_reade.md)
+1. [点击查看详情](./program/algorithm/algorithm_reade.md)
 
 ### 面向对象
 1. [js面向对象初接触（1）](./program/js_oop/1812/01.md)
@@ -137,3 +137,6 @@
 4. [javaScript高级程序设计（第三版）笔记 - 04](./other/notes/javaScriptGJCXSJ/190301.md)
 5. [javaScript高级程序设计（第三版）笔记 - 05](./other/notes/javaScriptGJCXSJ/190302.md)
 6. [javaScript高级程序设计（第三版）笔记 - 06](./other/notes/javaScriptGJCXSJ/190303.md)
+
+### 5. 常用工具软件及网站
+1. [工作学习常用工具及网站](./other/tool/190401.md)
