@@ -24,10 +24,11 @@
 3. [jQuery源码分析（3）](./browser/jQuery/1811/03.md)
 4. [jQuery源码分析（4）](./browser/jQuery/1811/04.md)
 
-#### 6,浏览器游湖
+#### 6,浏览器优化
 1. [前端性能优化](./browser/optimization/1904/190401.md)
 2. [提高首屏加载速度-基础](./browser/optimization/1904/190402.md)
 3. [减少服务器的压力](./browser/optimization/1904/190403.md)
+4. [优化 ui 交互以及动画的流畅度01](https://www.tomz.club/blog/md/Browser/optimization/2019-04/190404.md)
 
 ------
 ## 二，后端
