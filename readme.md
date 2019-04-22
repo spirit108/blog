@@ -34,8 +34,8 @@
 ### nginx
 1. [nginx开启关闭以及重启](./server/nginx/1806/01.md)
 2. [nginx.conf详解](./server/nginx/1806/02.md)
-4. [nginx开启关闭以及重启2](./server/nginx/1811/01.md)
-5. [nginx 开启 GZIP](./server/nginx/1904/190401.md)
+3. [nginx开启关闭以及重启2](./server/nginx/1811/01.md)
+4. [nginx 开启 GZIP](./server/nginx/1904/190401.md)
 
 ### node
 1. [express前言](./server/node/1806/00.md)
@@ -70,7 +70,6 @@
 
 ### wepy
 1. [wepy之子组件向父组件的传值](./weixin/wepy/1806/01.md)
-
 
 ------
 ## 五，编程知识
