@@ -64,7 +64,8 @@
 4. [TCP连接与关闭](./server/http/1904/190402.md)
 5. [Web安全篇之 SQL 注入攻击](./server/http/1904/190403.md)
 6. [Web安全之 CSRF 攻击](./server/http/1904/190404.md)
-7. [Web 安全之 xss 攻击](./server/http/1904/190405.md)
+7. [Web安全之 xss 攻击](./server/http/1904/190405.md)
+8. [Web安全之越权操作](./server/http/1904/190406.md)
 
 ------
 ## 三，微信
