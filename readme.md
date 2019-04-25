@@ -63,7 +63,8 @@
 3. [HTTP 状态码](./server/http/1904/190401.md)
 4. [TCP连接与关闭](./server/http/1904/190402.md)
 5. [Web安全篇之 SQL 注入攻击](./server/http/1904/190403.md)
-5. [Web安全之 CSRF 攻击](./server/http/1904/190404.md)
+6. [Web安全之 CSRF 攻击](./server/http/1904/190404.md)
+7. [Web 安全之 xss 攻击](./server/http/1904/190405.md)
 
 ------
 ## 三，微信
