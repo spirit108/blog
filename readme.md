@@ -74,6 +74,7 @@
 2. [实现遮罩层下底层不滚动](./weixin/miniprogram/1806/02.md)
 3. [小程序实现网页端cookie会话功能](./weixin/miniprogram/1806/03.md)
 4. [小程序 canvas 裁剪图形，开发者 会有bug](./weixin/miniprogram/1902/01.md)
+5. [小程序 webview 开发](./weixin/miniprogram/1904/190401.md)
 
 ### wepy
 1. [wepy之子组件向父组件的传值](./weixin/wepy/1806/01.md)
