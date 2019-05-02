@@ -107,6 +107,8 @@
 
 ### typeScript
 1. [typeScript使用CommonJS](./program/typeScript/1903/190301.md)
+2. [typeScript的特性](./program/typeScript/1905/190501.md)
+2. [typeScript 对象属性强定义](./program/typeScript/1905/190502.md)
 
 ------
 ## 六，其他
