@@ -57,6 +57,7 @@
 3. [跟着Windows学Linux进本操作](./server/linux/1807/03.md)
 4. [vm虚拟机安装Linux-centOS7无法上网](./server/linux/1807/04.md)
 5. [Linux-centOS7安装ifconfig](./server/linux/1807/05.md)
+6. [笔记本用u盘装centos](./server/linux/1905/190501.md)
 
 ### http
 1. [服务器常用网络端口](./server/http/1807/180701.md)
