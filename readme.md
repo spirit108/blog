@@ -64,7 +64,7 @@
 2. [一个mvc服务器浏览器网络请求简要过程](./server/http/1807/180702.md)
 3. [HTTP 状态码](./server/http/1904/190401.md)
 4. [TCP连接与关闭](./server/http/1904/190402.md)
-5. [Web安全篇之 SQL 注入攻击](./server/http/1904/190403.md)
+5. [Web安全之 SQL 注入攻击](./server/http/1904/190403.md)
 6. [Web安全之 CSRF 攻击](./server/http/1904/190404.md)
 7. [Web安全之 xss 攻击](./server/http/1904/190405.md)
 8. [Web安全之越权操作](./server/http/1904/190406.md)
@@ -138,6 +138,7 @@
 3. [webpack4（3）](./other/webpack/1812/03.md)
 4. [webpack4（4）](./other/webpack/1812/04.md)
 5. [eslint 配置](./other/webpack/1812/05.md)
+6. [简单将 webpack 进行分环境运行与打包](./other/webpack/1905/190501.md)
 
 ### 3. 思维
 1. [前端一点小想法](./other/thinking/1812/01.md)
