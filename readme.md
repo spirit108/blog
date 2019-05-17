@@ -114,7 +114,10 @@
 ## 六，其他
 ### git
 ##### 基础
-1. [常用操作命令](./other/git/base/1806/01.md)
+1. [常用操作命令](./other/git/1806/00.md)
+2. [git分支管理-branth](./other/git/1806/01.md)
+3. [问题解决](./other/git/1806/02.md)
+4. [git与github 工作流](./other/git/1806/03.md)
 
 ##### 需求
 1. [常用分支管理](./other/git/demand/1806/01.md)
