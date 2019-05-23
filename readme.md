@@ -137,6 +137,7 @@
 8. [博客版本v0.0.8](./other/blog_record/1904/190402.md)
 9. [博客版本v0.0.9](./other/blog_record/1904/190403.md)
 10. [博客版本v1.1.0](./other/blog_record/1905/190501.md)
+11. [博客版本v1.1.1](./other/blog_record/1905/190502.md)
 
 ### webpack
 1. [webpack4（1）](./other/webpack/1812/01.md)
@@ -145,7 +146,7 @@
 4. [webpack4（4）](./other/webpack/1812/04.md)
 5. [eslint 配置](./other/webpack/1812/05.md)
 6. [简单将 webpack 进行分环境运行与打包](./other/webpack/1905/190501.md)
-6. [webpack 发布 npm 插件](./other/webpack/1905/190502.md)
+7. [webpack 发布 npm 插件](./other/webpack/1905/190502.md)
 
 ### 3. 思维
 1. [前端一点小想法](./other/thinking/1812/01.md)
