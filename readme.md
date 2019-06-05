@@ -60,6 +60,8 @@
 5. [Linux-centOS7安装ifconfig](./server/linux/1807/05.md)
 6. [笔记本用u盘装centos](./server/linux/1905/190501.md)
 7. [Linux基本命令-02](./server/linux/1905/190502.md)
+8. [centOS7 安装 nginx](./server/linux/1906/190601.md)
+9. [centOS7 安装 mysql](./server/linux/1906/190602.md)
 
 ### http
 1. [服务器常用网络端口](./server/http/1807/180701.md)
